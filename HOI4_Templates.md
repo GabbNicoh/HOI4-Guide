@@ -16,6 +16,8 @@
 - [Navy](#navy)
 	- [Best Ships for certain missions](#best-ships-for-certain-missions)
 	- [Naval Doctrines](#naval-doctrines)
+	- [ONLY NAVY YOU NEED BABY](#only-navy-you-need-baby)
+- [3. Sub Killer Use legacy Destroyers and convoy escort put air where subs are](#3-sub-killer-use-legacy-destroyers-and-convoy-escort-put-air-where-subs-are)
 - [Air Force](#air-force)
 	- [Air Doctrines](#air-doctrines)
 - [Things to Remember when Attacking on Land](#things-to-remember-when-attacking-on-land)
@@ -200,6 +202,15 @@ Trade Interdiction
 Base Strike
 - Carriers
 
+---
+### ONLY NAVY YOU NEED BABY
+1. Destroyers
+![Template for Screen Destroyers](https://steamuserimages-a.akamaihd.net/ugc/1304304432372639003/66FB398463104C752310C787F5463ADD5F0946A1/)
+2. Cruisers
+![Template for Cruiser babies](https://steamuserimages-a.akamaihd.net/ugc/1304304432372648904/C9E38DA4BC7420C5622F283DD10842AF4193B014/)
+> TRADE INTERDICTION OR FLEET IN BEING
+> Use 3-4 Destroyers per Heavy Cruiser
+3. Sub Killer Use legacy Destroyers and convoy escort put air where subs are
 ---
 
 ## Air Force
